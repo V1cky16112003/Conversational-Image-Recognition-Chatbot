@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #121212;
+  color: white;
+}
+
+button {
+  transition: all 0.3s ease-in-out;
+}
